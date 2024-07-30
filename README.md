@@ -1,3 +1,0 @@
-# Tomás Philippart
-
-README WIP.
